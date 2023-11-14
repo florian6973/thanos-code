@@ -14,7 +14,7 @@ setup(
         "cmake>=3.21.2, <4.0.0",
         "datasets>=1.11.0, <2.0.0",
         "einops>=0.3.2, <1.0.0",
-        "meerkat-ml",
+        "meerkat-ml==0.2.5",
         "opt-einsum>=3.3.0, <4.0.0",
         "pykeops>=1.5, <2.0",
         "pytorch-lightning>=1.4.5, <1.4.9",
