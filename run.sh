@@ -1,0 +1,1 @@
+python3.8 bin/unagi +experiment=test dataflow.data_dir=data_cifar
