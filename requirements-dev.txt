@@ -8,4 +8,6 @@ pytorch-lightning==1.4.8
 rich
 wandb
 matplotlib
-sklearn
+scikit-learn
+pyyaml
+rich
